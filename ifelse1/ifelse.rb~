@@ -1,0 +1,5 @@
+if x==1
+print "x is equal to one"
+else
+print"For comparison use == as = is the assignment operator"
+end
