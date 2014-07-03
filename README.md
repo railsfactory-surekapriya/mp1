@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 	adddigit 	adding the digits 
 	arithmetic 	performing arithmetic operations
@@ -16,3 +17,7 @@
 
 
 
+=======
+mp1
+===
+>>>>>>> 8d37d5ab2cf937a9a9e8c29928b68b67fcaac5a0
