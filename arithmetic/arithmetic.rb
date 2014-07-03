@@ -1,14 +1,14 @@
 class Arithmetic
 def add
 puts "Enter the first value"
-a = gets.chomp
+a = gets.chomp.to_i
 puts "Enter the second value"
-b = gets.chomp
+b = gets.chomp.to_i
 
-puts "sum of two numbers is" ,(a.to_i + b.to_i)
-puts "subtracted value is" ,(a.to_i - b.to_i)
-puts "multiplication value is" ,(a.to_i * b.to_i)
-puts "division value is" ,(a.to_i / b.to_i)
+puts "sum of two numbers is" ,(a + b)
+puts "subtracted value is" ,(a - b)
+puts "multiplication value is" ,(a * b)
+puts "division value is" ,(a / b)
 end
 
 
