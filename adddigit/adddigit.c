@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> df85866bd25521fd43bd3247aaba21b7ff6127b5
 #include <stdio.h>
  
 int main()

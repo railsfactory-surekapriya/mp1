@@ -1,9 +1,0 @@
-word=raw("please enter the word")
-letter=word[0]
-print letter
-if letter == "a" or "e" or "i" or "o" or "u"
-print "vowel"
-else
-prtint "consonent"
-
-
