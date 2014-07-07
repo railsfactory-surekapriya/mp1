@@ -46,8 +46,9 @@ COMMITTED:
 	41.string_length        finding a length of string
 	42.userinput            getting the input from user
 	43.bubble_sort          performing bubble sort
-	
-
+	44.copy_string          copying a string
+	45.concatenate_strings  concatenating two strings
+	46.reverse_string       reversing a string
 
 
 
@@ -56,9 +57,6 @@ YET TO COMMIT:
 	1.Addition using pointers
 	2.Merge arrays
 	3.Transpose matrix
-	4.Copy string
-	5.Concatenate strings
-	6.Reverse string
 	7.Delete vowels
 	8.C substring
 	9.Sort a string
