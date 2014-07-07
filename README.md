@@ -49,7 +49,10 @@ COMMITTED:
 	44.copy_string          copying a string
 	45.concatenate_strings  concatenating two strings
 	46.reverse_string       reversing a string
-
+	47.change_case          changing the case of a string
+	48.swap_string          swapping two strings
+	49.anagrams             finding two numbers are anagram or not
+	50.read file            reading a file
 
 
 YET TO COMMIT:
@@ -57,21 +60,15 @@ YET TO COMMIT:
 	1.Addition using pointers
 	2.Merge arrays
 	3.Transpose matrix
-	7.Delete vowels
-	8.C substring
-	9.Sort a string
-	10.Remove spaces
-	11.Change case
-	12.Swap strings
-	13.Character's frequency
-	14.Anagrams
-	15.Read file
-	16.Copy files	
-	17.Merge two files
-	18.List files in a directory
-	19.Delete file
-	20.Random numbers
-	21.Add complex numbers
-	22.Get IP address
-	23.Shutdown computer
+	4.Delete vowels
+	5.C substring
+	6.Sort a string
+	7.Remove spaces
+	8.Character's frequency
+	9.Copy files	
+	10.Merge two files
+	11.List files in a directory
+	12.Delete file
+	13.Random numbers
+	14.Add complex numbers15.Shutdown computer
 
