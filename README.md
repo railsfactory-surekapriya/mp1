@@ -53,7 +53,7 @@ COMMITTED:
 	48.swap_string          swapping two strings
 	49.anagrams             finding two numbers are anagram or not
 	50.read file            reading a file
-
+	51.sort_string          sorting a string
 
 YET TO COMMIT:
 
@@ -62,13 +62,12 @@ YET TO COMMIT:
 	3.Transpose matrix
 	4.Delete vowels
 	5.C substring
-	6.Sort a string
-	7.Remove spaces
-	8.Character's frequency
-	9.Copy files	
-	10.Merge two files
-	11.List files in a directory
-	12.Delete file
-	13.Random numbers
-	14.Add complex numbers15.Shutdown computer
+	6.Remove spaces
+	7.Character's frequency
+	8.Copy files	
+	9.Merge two files
+	10.List files in a directory
+	11.Delete file
+	12.Random numbers
+	13.Add complex numbers15.Shutdown computer
 
