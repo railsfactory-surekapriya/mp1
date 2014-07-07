@@ -3,15 +3,15 @@
 COMMITTED:
 
  
-	1.add			programme for adding 
+	1.add			   programme for adding 
 	2.arithmetic		arithmetic operations
-	3.armstrong		program to find armstrong number 
+	3.armstrong		   program to find armstrong number 
 	4.armstrongnumbers 	checking armstrong numbers 
 	5.binarysearch 		program for binary search 
 	6.calculater 		simple calculater operation 
 	7.delete-element 	deleting the elements 
-	8.diamond		programme for adding 
-	9.dtob			decimal	 to binary 
+	8.diamond		   programme for adding 
+	9.dtob			   decimal	 to binary 
 	10.factorial 		program to find factorial 
 	11.fibonacci 		finding fibonacci 
 	12.floydstriangle 	Floydstriangle program 
