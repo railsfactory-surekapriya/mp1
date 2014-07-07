@@ -3,21 +3,21 @@
 COMMITTED:
 
 
-	1.add 			programme for adding 
+	1.add 			  programme for adding 
 	2.arithmetic 		arithmetic operations
 	3.armstrong 		program to find armstrong number 
 	4.armstrongnumbers 	checking armstrong numbers 
 	5.binarysearch 		program for binary search 
 	6.calculater 		simple calculater operation 
 	7.delete-element 	deleting the elements 
-	8.diamond 		programme for adding 
-	9.dtob 			decimal	 to binary 
+	8.diamond 		   programme for adding 
+	9.dtob 			   decimal	 to binary 
 	10.factorial 		program to find factorial 
 	11.fibonacci 		finding fibonacci 
 	12.floydstriangle 	Floydstriangle program 
-	13.get_ip 		printing the ip address 
+	13.get_ip 		   printing the ip address 
 	14.hcf 	finding 	hcf and lcm 
-	15.helloworld           printing helloworld 
+	15.helloworld         printing helloworld 
 	16.ifelse1              using ifelse loop
 	17.insert-element 	inserting the elements 
 	18.leap                 checking for a leap year
