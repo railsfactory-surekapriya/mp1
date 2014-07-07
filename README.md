@@ -2,7 +2,7 @@
 
 COMMITTED:
 
-
+ 
 	1.add 			  programme for adding 
 	2.arithmetic 		arithmetic operations
 	3.armstrong 		program to find armstrong number 
@@ -10,23 +10,23 @@ COMMITTED:
 	5.binarysearch 		program for binary search 
 	6.calculater 		simple calculater operation 
 	7.delete-element 	deleting the elements 
-	8.diamond 		   programme for adding 
-	9.dtob 			   decimal	 to binary 
+	8.diamond 		    programme for adding 
+	9.dtob 			    decimal	 to binary 
 	10.factorial 		program to find factorial 
 	11.fibonacci 		finding fibonacci 
 	12.floydstriangle 	Floydstriangle program 
-	13.get_ip 		   printing the ip address 
+	13.get_ip 		    printing the ip address 
 	14.hcf 	finding 	hcf and lcm 
-	15.helloworld         printing helloworld 
-	16.ifelse1              using ifelse loop
+	15.helloworld       printing helloworld 
+	16.ifelse1         using ifelse loop
 	17.insert-element 	inserting the elements 
-	18.leap                 checking for a leap year
+	18.leap            checking for a leap year
 	19.linear-search 	simple calculater operation
-	20.loop                 using loop in program
+	20.loop            using loop in program
 	21.max-array 		added maximum array files 
 	22.minarray 		added minimum array files 
-	23.ncr 			ncr program 
-	24.oddeven              finding number is odd or even 
+	23.ncr 			    ncr program 
+	24.oddeven         finding number is odd or even 
 	25.palindrome 		palindrome program 
 	26.pascal_triangle 	pascal triangle pprogram 
 	27.pattern 		print pattern program 
