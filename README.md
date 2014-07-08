@@ -62,11 +62,14 @@ COMMITTED:
 	57.transpose_matrix     transposition of matrix
 	58.merge_array          merging array
 	59.delete_vowels        deleting vowels from a string
+	60.remove_space         removing the unwanted space
+
+
 YET TO COMMIT:
 
 	1.Addition using pointers
 	2.C substring
-	3.Remove spaces
+	
 	4.Character's frequency
 	5.Add complex numbers
 	6.Shutdown computer
