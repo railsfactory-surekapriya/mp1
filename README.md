@@ -63,14 +63,11 @@ COMMITTED:
 	58.merge_array          merging array
 	59.delete_vowels        deleting vowels from a string
 	60.remove_space         removing the unwanted space
-
-
+	61.add_complex          adding two complex numbers
+	62.C substring          finding substring of a string
 YET TO COMMIT:
 
 	1.Addition using pointers
-	2.C substring
-	
-	4.Character's frequency
-	5.Add complex numbers
-	6.Shutdown computer
+	3.Character's frequency
+	4.Shutdown computer
 
