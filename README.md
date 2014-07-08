@@ -69,11 +69,6 @@ YET TO COMMIT:
 	5.C substring
 	6.Remove spaces
 	7.Character's frequency
-	
-	
-	
-
-	
-	13.Add complex numbers
-	15.Shutdown computer
+	8.Add complex numbers
+	9.Shutdown computer
 
