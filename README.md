@@ -65,6 +65,7 @@ COMMITTED:
 	60.remove_space         removing the unwanted space
 	61.add_complex          adding two complex numbers
 	62.C substring          finding substring of a string
+	63.string_integer       converting string to integer
 YET TO COMMIT:
 
 	1.Addition using pointers
