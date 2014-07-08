@@ -60,14 +60,14 @@ COMMITTED:
 	55.file_list            listing files in a directory
 	56.random_number        generating random numbers
 	57.transpose_matrix     transposition of matrix
+	58.merge_array          merging array
+	59.delete_vowels        deleting vowels from a string
 YET TO COMMIT:
 
 	1.Addition using pointers
-	2.Merge arrays
-	4.Delete vowels
-	5.C substring
-	6.Remove spaces
-	7.Character's frequency
-	8.Add complex numbers
-	9.Shutdown computer
+	2.C substring
+	3.Remove spaces
+	4.Character's frequency
+	5.Add complex numbers
+	6.Shutdown computer
 
