@@ -68,6 +68,6 @@ COMMITTED:
 YET TO COMMIT:
 
 	1.Addition using pointers
-	3.Character's frequency
-	4.Shutdown computer
+	2.Character's frequency
+	3.Shutdown computer
 
